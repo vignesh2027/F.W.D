@@ -29,7 +29,7 @@ export default function Hero({ scrollY }: { scrollY: number }) {
               </span>
             </h1>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              Celebrating 61 years of visionary leadership, educational excellence, and healthcare transformation by Shri M. Dhanasekara.His vision has built institutions, healed communities, and inspired generations. A legacy of service that continues to light the path forward
+              {"Celebrating over three decades of visionary leadership, Shri M. Dhanasekaran has been a transformative force in educational excellence and healthcare innovation. Through his unwavering commitment, he has built institutions that not only empower students but also heal communities, inspiring generations. His ongoing legacy of dedicated service continues to light the path forward, shaping a brighter future for countless lives.  "}
             </p>
           </div>
 
@@ -47,7 +47,7 @@ export default function Hero({ scrollY }: { scrollY: number }) {
             </div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-accent rounded-2xl shadow-lg flex items-center justify-center text-center p-4">
               <div>
-                <p className="text-3xl font-bold text-accent-foreground">61</p>
+                <p className="text-3xl font-bold text-accent-foreground">{"31"}</p>
                 <p className="text-sm text-accent-foreground/80">Years of Vision</p>
               </div>
             </div>

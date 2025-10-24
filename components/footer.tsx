@@ -15,7 +15,7 @@ export default function Footer() {
               </div>
               <span className="font-bold text-lg">Dhanasekaran</span>
             </div>
-            <p className="text-background/80 text-sm">61 years of visionary leadership in education and healthcare</p>
+            <p className="text-background/80 text-sm"> 31 years of visionary leadership in education and healthcare</p>
           </div>
 
           {/* Quick Links */}
@@ -66,7 +66,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-background/80">
               <li className="flex items-center gap-2">
                 <Mail size={16} />
-                <span>info@smvtrust.org</span>
+                <span>{"takshashila@org.in"}</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone size={16} />

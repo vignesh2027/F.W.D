@@ -88,7 +88,7 @@ export default function Impact() {
                     <Icon className="w-8 h-8 text-primary-foreground" />
                   </div>
                 </div>
-                <div className="text-3xl font-bold text-primary mb-2">{impact.number}</div>
+                
                 <div className="text-lg font-semibold text-foreground mb-2">{impact.label}</div>
                 <p className="text-sm text-muted-foreground mb-3">{impact.description}</p>
                 <p className="text-xs text-muted-foreground/70 leading-relaxed italic">{impact.details}</p>

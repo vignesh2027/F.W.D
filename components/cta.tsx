@@ -16,14 +16,3 @@ export default function CTA() {
           Your 61 years of dedication have transformed thousands of lives and continue to inspire millions.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <button className="px-8 py-3 bg-primary-foreground text-primary rounded-lg font-semibold hover:bg-primary-foreground/90 transition-colors">
-            Join the Mission
-          </button>
-          <button className="px-8 py-3 border-2 border-primary-foreground text-primary-foreground rounded-lg font-semibold hover:bg-primary-foreground/10 transition-colors">
-            Explore Opportunities
-          </button>
-        </div>
-      </div>
-    </section>
-  )
-}

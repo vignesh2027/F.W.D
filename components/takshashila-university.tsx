@@ -53,7 +53,7 @@ export default function TakshashilaUniversity() {
           <div className="relative animate-slide-in-left">
             <div className="relative w-full aspect-video rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="/images/design-mode/takshashila-university-kanchipuram-universities-ypdimvklyt.avif"
+                src="/images/design-mode/Phd_Image_TU.jpg"
                 alt="Takshashila University"
                 fill
                 className="object-cover"
