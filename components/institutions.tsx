@@ -20,7 +20,7 @@ const institutions = [
   {
     name: "Sri Manakula Vinayagar Engineering College",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/images%20%283%29-KNAWQYp1cjKoAqVnmttjWC7IUwk8xb.jpeg",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sri-Manakula-Vinayagar-Engineering-College-1qBKe4cw8S4C1muL3Qy1SbK7Rym96i.webp",
     description: "Premier engineering institution with state-of-the-art facilities and academic rigor",
     year: "1999",
     highlights: [
