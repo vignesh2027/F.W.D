@@ -23,7 +23,7 @@ export default function EventCelebration() {
           {/* Event Details */}
           <div className="animate-slide-in-left">
             <h2 className="text-4xl md:text-5xl font-bold text-primary mb-6">
-              Celebrating 61 Years of Visionary Leadership
+              {"Celebrating over three decades of visionary leadership"}
             </h2>
 
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
